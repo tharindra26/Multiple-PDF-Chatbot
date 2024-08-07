@@ -1,0 +1,10 @@
+python -m venv .venv
+Set-ExecutionPolicy Unrestricted  //run this with administrative
+.venv/Scripts/Activate.ps1
+
+Popular libraries like TensorFlow, PyTorch, and Keras offer GPU support.
+
+lanchain-interact with language models
+faiss-cpu- vectorstore
+
+pip install InstructorEmbedding sentence_transformers
