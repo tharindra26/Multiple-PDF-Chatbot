@@ -105,7 +105,5 @@ Ensure you have a `.gitignore` file to exclude unnecessary files from the reposi
     *.log
     ```
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
